@@ -766,6 +766,7 @@
 - V-WIFI-DL02-ES energy consumption dual clamp meter
 - Veratti V4 3-phase energy meter circuit breaker
 - WDYK 2P63A, 3P 400V, 4P100A energy meter circuit breakers
+- WizElek SBLYU01-40 V4 and V5 smart RCBO
 - WMDL 2C dual channel bidirectional energy meter
 - Xoca DAC2121C BI energy meter
 - Yagusmart 3PN 63A 3-phase multi-tariff and iMeter 3PN energy meters
